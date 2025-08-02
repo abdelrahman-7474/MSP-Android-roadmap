@@ -6,7 +6,7 @@ Welcome to the **❤️💙💚 MSP Android Roadmap**, a beginner-friendly guide
 
 ##  About Us
 
-We are the **Microsoft Student Partners (MSP) Club** at **Ain Shams University**, Faculty of Computer and Information Sciences.  
+We are the **Microsoft Student Partners (MSP) Club** at **Ain Shams University**, Faculty of Computer and Information Science.  
 Our mission is to support and guide students through hands-on sessions, projects, and mentorship in modern technologies.  
 
 This repository is part of our Android track, which consists of 8 practical sessions — from Android basics to building full Android applications.  
@@ -119,4 +119,5 @@ If you have questions or want to contribute, don’t hesitate to reach out!
 ---
 
 > Made by ❤️💙💚 MSP Android Committee – Ain Shams University
+
 
