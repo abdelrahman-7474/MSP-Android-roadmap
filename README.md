@@ -9,11 +9,11 @@ Welcome to the **❤️💙💚 MSP Android Roadmap**, a beginner-friendly guide
 We are the **Microsoft Student Partners (MSP) Club** at **Ain Shams University**, Faculty of Computer and Information Sciences.  
 Our mission is to support and guide students through hands-on sessions, projects, and mentorship in modern technologies.  
 
-This repository is part of our Android track, which consists of 8 practical sessions — from Kotlin basics to building full Android applications.  
+This repository is part of our Android track, which consists of 8 practical sessions — from Android basics to building full Android applications.  
 
-🔗 Follow us on Facebook: [facebook.com/ASUTC](https://www.facebook.com/ASUTC)  
-📢 **Slogan**: `#knowledge_shared_is_knowledge_squared`
-🎥 **Watch our Android sessions on YouTube:** [youtube.com/channel/YourChannelID](http://www.youtube.com/@mspasu-techclub8702)
+ Follow us on Facebook: [facebook.com/ASUTC](https://www.facebook.com/ASUTC)  
+**Slogan**: `#knowledge_shared_is_knowledge_squared`  
+**Watch our Android sessions on YouTube:** [youtube.com/mspasu-techclub8702](http://www.youtube.com/@mspasu-techclub8702)
 
 ---
 
@@ -70,7 +70,7 @@ This repository is part of our Android track, which consists of 8 practical sess
 ---
 ##  Resources 
 
--  📺 **Watch the full playlist for this topic here:** [Kotlin Coroutines Playlist](https://www.youtube.com/watch?v=9NyGOrztWjE&list=PLXjbGq0ERjFqGlzZFDMCHJA_PBvUIaIto)
+-   **Watch the full playlist for this topic here:** [Kotlin Coroutines Playlist](https://www.youtube.com/watch?v=9NyGOrztWjE&list=PLXjbGq0ERjFqGlzZFDMCHJA_PBvUIaIto)
 ##  Session 4 – Intro To Android Development
 
 ###  Topics Covered:
@@ -119,3 +119,4 @@ If you have questions or want to contribute, don’t hesitate to reach out!
 ---
 
 > Made by ❤️💙💚 MSP Android Committee – Ain Shams University
+
